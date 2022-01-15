@@ -1,0 +1,30 @@
+h1{
+    color: black;
+}
+
+.lorem{
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+}
+
+#id{
+    font-size: 40px;
+    color: rgb(0, 204, 255);
+}
+
+
+.fonts{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: chartreuse;
+}
+
+.quadrado{
+    display: flex;
+    border: 2px solid blue;
+    text-align: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
