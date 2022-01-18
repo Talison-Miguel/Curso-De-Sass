@@ -1,0 +1,28 @@
+body {
+  background-color: #DDD;
+}
+
+.container {
+  display: flex;
+  background-color: white;
+  width: 100%;
+  height: 300px;
+  justify-content: center;
+  align-items: center;
+}
+.container .box {
+  height: 100px;
+  width: 100px;
+}
+.container .first {
+  background-color: red;
+}
+.container .second {
+  background-color: green;
+  align-self: flex-start;
+}
+.container .third {
+  background-color: blue;
+}
+
+/*# sourceMappingURL=style.css.map */
