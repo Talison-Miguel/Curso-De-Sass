@@ -1,0 +1,156 @@
+@use '../1-base/base-mixins'
+
+.main-container
+    display: flex
+    flex-direction: row
+    margin-top: 30px
+
+    @include base-mixins.mobile
+        margin-top: 0
+
+
+//---Banner---//
+.banner, .form-container
+    flex: 1 1 0
+    width: 50%
+
+
+.banner
+    text-align: right
+
+    @include base-mixins.mobile
+        display: none
+
+    img
+        margin-right: -15px 
+
+
+//---Login Form---//
+.form-container
+    text-align: center
+
+    &-box, &-register
+        background-color: #fff
+        border: 1px solid #dbdbdbd
+        width: 350px
+        margin-top: 30px
+
+        @include base-mixins.mobile
+            width: 100%
+            border: none
+
+        @include base-mixins.mobile
+            margin-top: 0
+
+        &-logo-insta
+            width: 175px
+            height: 51px
+            margin: 30px auto 12px
+            background-color: #fff
+
+    .form-login
+        margin-top: 10px
+
+        input
+            display: block
+            font-size: 12px
+            padding: 12px 9px
+            background-color: #fafafa
+            border: 1px solid #dbdbdb
+            border-radius: 3px
+            width: 268px
+            margin: 5px auto
+
+        input[type="submit"]
+            background-color: #b2dffc
+            color: #fff
+            margin-top: 15px
+            border-radius: 5px
+            height: 30px
+            border-color: #b2dffc
+            font-size: 13px
+            padding: 0
+            font-weight: bold
+            cursor: pointer
+    //---Separador---//
+    &-separator
+        position: relative
+
+        &-line
+            border-top: 1px solid #dbdbdb
+            margin: 25px auto
+
+        span
+            position: absolute
+            text-transform: uppercase
+            color: #bbb
+            width: 50px
+            top: -6px
+            left: 50%
+            margin-left: -25px
+            font-size: 14px
+            font-weight: bold
+    // --- Links Alternativos --- //
+    &-otherLinks-facebook
+        margin-bottom: 25px
+
+        a
+           text-decoration: none
+           color: #385185
+           display: flex
+           align-items: center
+           justify-content: center 
+
+           img
+               width: 16px
+               height: 16px
+               margin-right: 8px
+
+               span
+                   font-weight: bold
+                   font-size: 13px
+                   margin-top: 1px
+
+    &-otherLinks-ForgotPass
+        margin-bottom: 20px
+        font-size: 12px
+
+        a
+            text-decoration: none
+            color: #373799
+
+    // --- Registrar --- //
+    &-register
+        margin-top: 10px
+        padding: 25px
+
+        p
+            font-size: 14px
+            color: 262626
+
+            a
+                color: #4a95f6
+                font-weight: bold
+                text-decoration: none
+    // --- Get App -- //
+    &-getApp
+        text-align: center
+        width: 350px
+
+        @include base-mixins.mobile
+            width: 100%
+            border: none
+
+        p
+            margin: 20px 0
+            font-size: 13px
+
+        a
+            text-decoration: none
+
+            img
+                width: 136px
+                height: 40px
+
+                
+                        
