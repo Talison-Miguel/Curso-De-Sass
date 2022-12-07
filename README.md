@@ -19,7 +19,7 @@
 
 
   <a href="https://www.linkedin.com/in/t%C3%A1lison-miguel/">
-    <img alt="Made by Tálison" src="https://img.shields.io/badge/made%20by-Gabriel-%2304D361">
+    <img alt="Made by Tálison" src="https://img.shields.io/badge/made%20by-talison-red">
   </a>
 </p>
 
