@@ -3,20 +3,14 @@
 </h1>
 
 <p align="center">
-   <img alt="GitHub language count" src="https://img.shields.io/github/TESTE/count/Gabriel4420/template-example">
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Gabriel4420/template-example?logo=html">
-
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/Gabriel4420/template-example?color=green">
+  <img alt="GitHub top language" src="[https://img.shields.io/badge/sass-46.5%25-green](https://img.shields.io/badge/sass-46.6%25-%23DB7093)">
 
   <br>
   
-  <a>
-    <img src="https://app.codacy.com/project/badge/Grade/6dd6b46abeb14e99935a2b9ac5c6ede2"/>
-  </a>
+  <img src="https://img.shields.io/badge/code%20quality-A-green"/>
   
   <img alt="GitHub code size in bytes" src="https://img.shields.io/badge/last%20commit-december-green">
-
 
   <a href="https://www.linkedin.com/in/t%C3%A1lison-miguel/">
     <img alt="Made by Tálison" src="https://img.shields.io/badge/made%20by-talison-red">
