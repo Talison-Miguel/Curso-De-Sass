@@ -38,14 +38,14 @@
 - 📦️ [Como utilizar o projeto](#%EF%B8%8F-como-utilizar-o-projeto)
 ---
 
-## :rocket: Sobre o Projeto
+## :rocket: Sobre o Repositório
 
-Este é um projeto de boilerplate, contendo as configurações prontas para o seguinte template como base da aplicação template-example: 
+Este é um repositório contendo todo conteúdo que fiz do curso, desde funcionalidades do sass até projetos. 
 
-🔹  React
-🔹  Chakra UI
-🔹  Webpack
-🔹  testes unitários
+🔹  
+🔹  
+🔹  
+🔹  
 
 ---
 
