@@ -1,5 +1,5 @@
 <h1 align="center">
- 📘 Curso de SASS e SCSS do básico ao avançado + projetos 📘
+ 📘 Curso de SASS e SCSS do básico ao avançado + projetos
 </h1>
 
 <p align="center">
@@ -46,7 +46,7 @@ Este é um repositório contendo todo conteúdo que fiz do curso, desde funciona
 
 ### Padronização de código
 
-  - [Arquitetura de Projetos com SASS do Matheus Battisti](https://prettier.io/)
+  - [Arquitetura de Projetos com SASS do Matheus Battisti]
   - :mouse: [Editor Config](https://editorconfig.org/)
 
 ### IDE
