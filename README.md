@@ -46,7 +46,7 @@ Este é um repositório contendo todo conteúdo que fiz do curso, desde funciona
 
 ## 👨‍💻️ Tecnogias utilizadas
 
-✅ [SASS]([https://reactjs.org/docs/getting-started.html](https://sass-lang.com/install)) <br/>
+✅ [SASS](https://sass-lang.com/install) <br/>
 ✅ [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) <br/>
 ✅ [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) <br/>
 
