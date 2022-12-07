@@ -11,11 +11,11 @@
 
   <br>
   
-  <a href="https://www.codacy.com/manual/Gabriel4420/template-example?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Gabriel4420/template-example&amp;utm_campaign=Badge_Grade">
+  <a>
     <img src="https://app.codacy.com/project/badge/Grade/6dd6b46abeb14e99935a2b9ac5c6ede2"/>
   </a>
   
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/Gabriel4420/template-example">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/badge/last%20commit-december-green">
 
 
   <a href="https://www.linkedin.com/in/t%C3%A1lison-miguel/">
