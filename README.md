@@ -4,7 +4,7 @@
 
 <p align="center">
 
-  <img alt="GitHub top language" src="https://img.shields.io/badge/SASS-46.6%25-%23DB7093">
+  <img alt="GitHub top language" src="https://img.shields.io/badge/SASS-46.5%25-%23DB7093">
 
   <br>
   
