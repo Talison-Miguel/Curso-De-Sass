@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Gabriel4420/template-example">
+   <img alt="GitHub language count" src="https://img.shields.io/github/TESTE/count/Gabriel4420/template-example">
 
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Gabriel4420/template-example?logo=html">
 
