@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <img alt="Imagem da Aplicação" src="./public/HomeApp.png" />
+  <img alt="Imagem da Aplicação" src="certificado.jpg" />
 </p>
 
 ---
