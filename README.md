@@ -42,32 +42,17 @@
 
 Este é um repositório contendo todo conteúdo que fiz do curso, desde funcionalidades do sass até projetos. 
 
-🔹  
-🔹  
-🔹  
-🔹  
-
 ---
 
 ## 👨‍💻️ Tecnogias utilizadas
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
-
-✅ [React](https://reactjs.org/docs/getting-started.html) <br/>
-✅ [Chakra-UI](https://chakra-ui.com/getting-started) <br/>
-✅ [Webpack](https://webpack.js.org/) <br/>
-✅ [Semantic-Release](https://semantic-release.gitbook.io/semantic-release/) <br/>
-✅ [react-refresh-webpack-plugin](https://github.com/pmmmwh/react-refresh-webpack-plugin) <br/>
-✅ [Svgr](https://react-svgr.com/) <br/>
-✅ [Swc](https://swc.rs/)<br/>
-✅ [tailwindcss](https://tailwindcss.com/docs/installation)<br/>
-
-
+✅ [SASS]([https://reactjs.org/docs/getting-started.html](https://sass-lang.com/install)) <br/>
+✅ [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) <br/>
+✅ [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) <br/>
 
 ### Padronização de código
 
-  - [ESLint](https://eslint.org/)
-  - [Prettier](https://prettier.io/)
+  - [Arquitetura de Projetos com SASS do Matheus Battisti](https://prettier.io/)
   - :mouse: [Editor Config](https://editorconfig.org/)
 
 ### IDE
