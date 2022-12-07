@@ -1,5 +1,5 @@
 <h1 align="center">
- 📘 Template de boilerplate React + Chakra UI + Webpack 📘
+ 📘 Curso de SASS e SCSS do básico ao avançado + projetos 📘
 </h1>
 
 <p align="center">
@@ -18,8 +18,8 @@
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/Gabriel4420/template-example">
 
 
-  <a href="https://www.linkedin.com/in/gabriel-rodrigues-perez-2069b072/">
-    <img alt="Made by Gabriel" src="https://img.shields.io/badge/made%20by-Gabriel-%2304D361">
+  <a href="https://www.linkedin.com/in/t%C3%A1lison-miguel/">
+    <img alt="Made by Tálison" src="https://img.shields.io/badge/made%20by-Gabriel-%2304D361">
   </a>
 </p>
 
