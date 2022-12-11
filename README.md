@@ -3,14 +3,15 @@
 </h1>
 
 <p align="center">
-
-  <img alt="GitHub top language" src="https://img.shields.io/badge/SASS-46.5%25-%23DB7093">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-49.7%25-orange">
+ 
+  <img alt="SASS" src="https://img.shields.io/badge/SASS-46.5%25-%23DB7093">
 
   <br>
   
   <img src="https://img.shields.io/badge/code%20quality-A-green"/>
   
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/badge/last%20commit-december-green">
+  <img alt="Last commit" src="https://img.shields.io/badge/last%20commit-december-green">
 
   <a href="https://www.linkedin.com/in/t%C3%A1lison-miguel/">
     <img alt="Made by Tálison" src="https://img.shields.io/badge/made%20by-talison-red">
