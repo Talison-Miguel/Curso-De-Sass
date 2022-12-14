@@ -50,7 +50,7 @@ Este é um repositório contendo todo conteúdo que fiz do curso, desde funciona
   - [Arquitetura de Projetos com SASS do Matheus Battisti]
   -  : mouse : [ Editor Config ](https://editorconfig.org/)
 
-###  VAI
+###  IDE
 
   - [ Código do Visual Studio ](https://code.visualstudio.com/)
 
@@ -61,7 +61,7 @@ Este é um repositório contendo todo conteúdo que fiz do curso, desde funciona
 Para copiar o projeto, utilize os comandos:
 
 ```bash
-  ❯ git clone https://github.com/Talison-Miguel/ Curso-De-Sass .git
+  ❯ git clone https://github.com/Talison-Miguel/Curso-De-Sass.git
 ```
 
 ---
