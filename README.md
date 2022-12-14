@@ -26,42 +26,18 @@
 
 ---
 
-# Indice
-
-- :rocket: [Sobre o Projeto](#rocket-sobre-o-projeto)
-- 👨‍💻️ [Tecnogias utilizadas](#%EF%B8%8F-tecnogias-utilizadas)
-- 📦️ [Como utilizar o projeto](#%EF%B8%8F-como-utilizar-o-projeto)
----
-
 ## :rocket: Sobre o Repositório
 
 Este é um repositório contendo todo conteúdo que fiz do curso, desde funcionalidades do sass até projetos. 
 
 ---
 
-## 👨‍💻️ Tecnogias utilizadas
+## 📦️ Copiar o projeto
 
-✅ [SASS](https://sass-lang.com/install) <br/>
-✅ [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) <br/>
-✅ [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) <br/>
-
-### Padronização de código
-
-  - [Arquitetura de Projetos com SASS do Matheus Battisti]
-  - :mouse: [Editor Config](https://editorconfig.org/)
-
-### IDE
-
-  - [Visual Studio Code](https://code.visualstudio.com/)
-
----
-
-## 📦️ Como utilizar o projeto
-
-Para copiar o projeto, utilize os comandos:
+utilize os comandos:
 
 ```bash
-  ❯ git clone https://github.com/Talison-Miguel/Curso-De-Sass.git
+  ❯ git clone https://github.com/Talison-Miguel/github-curse.git
 ```
 
 ---
